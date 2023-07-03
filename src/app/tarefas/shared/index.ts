@@ -1,2 +1,2 @@
-export * from '../tarefas.module';
+export * from './tarefa.model';
 export * from './tarefa.service';
